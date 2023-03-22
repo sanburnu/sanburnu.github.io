@@ -1,0 +1,12 @@
+---
+title: LoL50
+layout: default
+modal-id: 3
+date: 2022-10-15
+img: lol50.jpg
+alt: lol50
+project-date: December 2022
+client: CS50x Final Project
+category: Web Development
+description: Lol50 is a website that uses Riot's official API to connect to game database and show off that data to user. The site uses Flask in the background. This was my first full-stack project.
+---

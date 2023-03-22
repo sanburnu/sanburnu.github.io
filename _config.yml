@@ -2,9 +2,9 @@
 title: Anıl İşcan
 email: anil_iscan@outlook.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Hello, I am a senior year Civil Engineering student at Yıldız Technical University. This is my portfolio website for my software engineering related projects."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Django - Javascript - React - Flask - HTML/CSS"
 meta_author: Iscan Anıl
 
 # Google webmaster tools
@@ -39,14 +39,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/aniliscan/
   - title: github
     url: http://github.com/sanburnu
 

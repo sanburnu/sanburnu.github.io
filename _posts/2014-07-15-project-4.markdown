@@ -1,11 +1,12 @@
 ---
+title: SteamDataHelper
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2022-11-25
 img: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+alt: steamhelper
+project-date: October 2022
+client: CS50P Final Project
+category: Command Lıne Program
+description: SteamDataHelper is a command line program that uses Steam API to track the given user's various public data. This project was my first API project and helped me work better with APIs and Json. 
 ---
