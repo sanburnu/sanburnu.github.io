@@ -1,11 +1,12 @@
 ---
+title: Tic Tac Toe
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2023-03-15
+img: tictactoe.png
+alt: Tictactoe
+project-date: March 2023
+client: CS50AI Project
+category: Artificial Intelligence
+description: You can play as X or O versus the AI that I wrote. AS long as you don't make any mistakes the games will end in a tie but AI would never lose since it makes the optimum move %100 of the time. Algorithm also uses Alpha-Beta Pruning to lower the time AI needs to make a move.
 ---
